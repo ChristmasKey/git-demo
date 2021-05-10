@@ -12,5 +12,5 @@ Hello Git！Hello ChristmasKey！
 Hello Git！Hello ChristmasKey！
 Hello Git！Hello ChristmasKey！
 Hello Git！Hello ChristmasKey！
-Hello Git！Hello ChristmasKey！
+Hello Git！Hello ChristmasKey！hot-fix test
 Hello Git！Hello ChristmasKey！6666666666
